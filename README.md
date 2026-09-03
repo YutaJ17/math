@@ -1,0 +1,2 @@
+# math
+tech notes
