@@ -1,4 +1,4 @@
-# 📚 ITMO University Study Materials
+# ITMO University Study Materials
 
 ITMO university study materials, Information Systems and Technologies, y29.
 
