@@ -41,4 +41,4 @@ ITMO university study materials, Information Systems and Technologies, y29.
 
 ## Дополнительно
 
-*   [**C++ Theory **](https://github.com/YutaJ17/advanced-cpp-mescherin) — конспект плейлиста Мещерина Ильи, продвинутый поток ФПМИ 2023-24.
+*   [**C++ Theory**](https://github.com/YutaJ17/advanced-cpp-mescherin) — конспект плейлиста Мещерина Ильи, продвинутый поток ФПМИ 2023-24.
