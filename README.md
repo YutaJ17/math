@@ -1,20 +1,44 @@
+# 📚 ITMO University Study Materials
+
+ITMO university study materials, Information Systems and Technologies, y29.
+
+---
+
 ## 1й семестр
-### дискретная математика
-- [коллоквиум 1](discrete_math_col_1.pdf)
-- [коллоквиум 2](discrete_math_col_2.pdf)
-### алгоритмы и структуры данных
-- [методичка по асимптотике](asymptotics.pdf)
+
+### Дискретная математика
+*   [Коллоквиум 1](./1-semester/discrete_math/discrete_math_col_1.pdf)
+*   [Коллоквиум 2](./1-semester/discrete_math/discrete_math_col_2.pdf)
+
+### Алгоритмы и структуры данных
+*   [Методичка по асимптотике](./1-semester/algorithms/asymptotics.pdf)
+
+---
+
 ## 2й семестр
-### дискретная математика
-- [коллоквиум 3](discrete_math_col_3.pdf)
-- [коллоквиум 4](discrete_math_col_4.pdf)
-### мат анализ
-- [тех конспект](math_an_2_sem_v_1.0.pdf) (все, кроме элементов операционного исчисления)
-### линейная алгебра
-- [1ая часть тех конспекта](lin_al_2_sem_part1.pdf) (без диффуров, появятся позже)
+
+### Дискретная математика
+*   [Коллоквиум 3](./2-semester/discrete_math/discrete_math_col_3.pdf)
+*   [Коллоквиум 4](./2-semester/discrete_math/discrete_math_col_4.pdf)
+
+### Математический анализ
+*   [Тех конспект](./2-semester/math_analysis/math_an_2_sem_v_1.0.pdf) *(все, кроме элементов операционного исчисления, появятся позже)*
+
+### Линейная алгебра
+*   [1-ая часть тех конспекта](./2-semester/linear_algebra/lin_al_2_sem_part1.pdf) *(без диффуров, появятся позже)*
+
+---
 
 ## 3й семестр
-### доп главы вышмата
-- [тех конспект до лекции №2 включительно](math_3_sem_v_1.0.pdf)
-### теория вероятности
-- [тех конспект до лекции №3 включительно](theory_of_probability.pdf)
+
+### Дополнительные главы высшей математики
+*   [Тех конспект](./3-semester/advanced_math/math_3_sem_v_1.0.pdf) *(до лекции №2 включительно)*
+
+### Теория вероятностей
+*   [Тех конспект](./3-semester/probability_theory/theory_of_probability.pdf) *(до лекции №3 включительно)*
+
+---
+
+## Дополнительно
+
+*   [**C++ Theory **](https://github.com/YutaJ17/advanced-cpp-mescherin) — конспект плейлиста Мещерина Ильи, продвинутый поток ФПМИ 2023-24.
